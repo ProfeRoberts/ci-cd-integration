@@ -3,7 +3,7 @@ package tests;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import utils.Browser;
-
+//test
 public abstract class BaseTest {
     protected static final String URL = "https://the-internet.herokuapp.com/";
 
